@@ -1,3 +1,7 @@
 db. > .gitignore
 add .
 git db.
+db.sqlite3
+db.
+env/
+.env
